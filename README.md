@@ -1,14 +1,14 @@
-# Angular-Karma-Jasmine
+# Angular-Karma-Jasmine: Testes Unitários em Angular 🧪🔬
 
-Este repositório contém um projeto desenvolvido em Angular utilizando Karma e Jasmine para testes unitários.
+Bem-vindo ao repositório Angular-Karma-Jasmine! Este projeto foi desenvolvido em Angular utilizando Karma e Jasmine para a realização de testes unitários.
 
 ## Descrição
 
-O projeto é uma aplicação Angular que demonstra o uso do Karma e Jasmine para escrever e executar testes unitários em componentes, serviços e outras partes da aplicação. Ele serve como um exemplo básico de como configurar e utilizar essas ferramentas de teste no contexto do Angular.
+Neste projeto, você encontrará uma aplicação Angular que exemplifica o uso das ferramentas de teste Karma e Jasmine para escrever e executar testes unitários em diversos componentes e serviços. O objetivo é fornecer um exemplo básico de configuração e utilização dessas ferramentas, demonstrando como testar diferentes partes de uma aplicação Angular.
 
 ## Pré-requisitos
 
-Antes de executar este projeto, verifique se você possui o seguinte instalado em sua máquina:
+Antes de executar este projeto, certifique-se de ter o seguinte instalado em sua máquina:
 
 - Node.js: [Download](https://nodejs.org/)
 - Angular CLI: Execute o seguinte comando no terminal para instalar o Angular CLI globalmente:
@@ -48,4 +48,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma nova issue o
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
